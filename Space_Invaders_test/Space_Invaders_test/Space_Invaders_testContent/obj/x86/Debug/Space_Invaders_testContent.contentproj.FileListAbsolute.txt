@@ -1,0 +1,2 @@
+c:\users\siv@s\documents\visual studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_testContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_testContent\obj\x86\Debug\ResolveAssemblyReference.cache

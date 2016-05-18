@@ -1,0 +1,12 @@
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\LevelContent\bin\x86\Debug\LevelContent.dll
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\LevelContent\bin\x86\Debug\LevelContent.pdb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\LevelContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\LevelContent\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\LevelContent\obj\x86\Debug\LevelContent.dll
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\LevelContent\obj\x86\Debug\LevelContent.pdb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\LevelContent\bin\x86\Debug\LevelContent.dll
+D:\Работа\Space_Invaders_test\Space_Invaders_test\LevelContent\bin\x86\Debug\LevelContent.pdb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\LevelContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Работа\Space_Invaders_test\Space_Invaders_test\LevelContent\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Работа\Space_Invaders_test\Space_Invaders_test\LevelContent\obj\x86\Debug\LevelContent.dll
+D:\Работа\Space_Invaders_test\Space_Invaders_test\LevelContent\obj\x86\Debug\LevelContent.pdb

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="LevelContent.Level">
+    <alienCount>9 3</alienCount>
+    <alienVelocity>3</alienVelocity>
+    <bombCount>6</bombCount>
+    <bombFreq>600</bombFreq>
+    <bombVelocity>3</bombVelocity>
+    <textureName>space5</textureName>
+    <timeForLevel>40</timeForLevel>
+  </Asset>
+</XnaContent>

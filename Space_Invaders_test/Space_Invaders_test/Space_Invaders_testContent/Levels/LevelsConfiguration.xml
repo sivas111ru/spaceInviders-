@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="LevelContent.LevelConfig">
+    <gameScreenWidth>1024</gameScreenWidth>
+    <gameScreenHeight>900</gameScreenHeight>
+    <PreferredBackBufferWidth>1024</PreferredBackBufferWidth>
+    <PreferredBackBufferHeight>900</PreferredBackBufferHeight>
+    <maxlives>3</maxlives>
+    <maxlevel>10</maxlevel>
+    <startLevel>0</startLevel>
+  </Asset>
+</XnaContent>

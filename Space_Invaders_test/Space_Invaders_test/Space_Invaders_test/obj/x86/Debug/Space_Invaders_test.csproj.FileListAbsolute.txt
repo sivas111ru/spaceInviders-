@@ -1,0 +1,132 @@
+c:\users\siv@s\documents\visual studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Space_Invaders_test.exe
+c:\users\siv@s\documents\visual studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Space_Invaders_test.pdb
+c:\users\siv@s\documents\visual studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\siv@s\documents\visual studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\siv@s\documents\visual studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\obj\x86\Debug\Space_Invaders_test.exe
+c:\users\siv@s\documents\visual studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\obj\x86\Debug\Space_Invaders_test.pdb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\background.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\rocket.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\alien.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\anim.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\smurf_sprite.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\smoke.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\spark.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\space1.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\space2.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\space3.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\anim3.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\fire.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\anim999.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\animalien.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\animalien2.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\spaceship.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\spaceship2.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\space4.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\angryalien.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\bomb-5.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\caution.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\greenball.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\blueb.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\greenb.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\redb.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\vedroid.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\rocket777.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\blueangry.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\shipanim.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\font.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Space_Invaders_test.exe
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Space_Invaders_test.pdb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\obj\x86\Debug\Space_Invaders_test.exe
+C:\Users\SiV@S\Documents\Visual Studio 2010\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\obj\x86\Debug\Space_Invaders_test.pdb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\LevelContent.dll
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\LevelContent.pdb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Sounds\shipfire3.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Sounds\alienExpl1.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Sounds\shipfire4.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Sounds\bomb.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Sounds\bombExpl1.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Sounds\shipExpl2.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\Level1.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\Level2.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\Level3.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\Level4.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\LevelsConfiguration.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\Level5.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\Level6.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\Level7.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\Level8.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\Level9.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\Level10.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Levels\space1.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Levels\space2.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Levels\space3.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Levels\space4.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Menu\menuBack5.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Menu\gameOverBack1.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Menu\gameEndBack9.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Levels\space10.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Levels\space5.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Levels\space6.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Levels\space7.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Levels\space8.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Levels\space9.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Sprites\spaceshpinfire.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Sprites\alienanimfire.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Sprites\bossanim2.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\rocket.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\bomb-5.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\blueb.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Fonts\font.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\orbz-fire.xnb
+C:\Users\SiV@S\Documents\Visual Studio 2010\Projects\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Sounds\bossExpl3.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\rocket.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Levels\space1.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Levels\space2.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Levels\space3.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Levels\space4.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\bomb-5.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\blueb.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Sprites\spaceshpinfire.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Menu\menuBack5.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Menu\gameOverBack1.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Sprites\alienanimfire.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Menu\gameEndBack9.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Sprites\bossanim2.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Levels\space10.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Levels\space5.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Levels\space6.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Levels\space7.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Levels\space8.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\Background\Levels\space9.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Textures\orbz-fire.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Fonts\font.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Sounds\shipfire3.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Sounds\alienExpl1.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Sounds\shipfire4.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Sounds\bomb.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Sounds\bombExpl1.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Sounds\shipExpl2.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Sounds\bossExpl3.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\Level1.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\Level2.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\Level3.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\Level4.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\LevelsConfiguration.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\Level5.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\Level6.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\Level7.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\Level8.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\Level9.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Content\Levels\Level10.xnb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Space_Invaders_test.exe
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\Space_Invaders_test.pdb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\LevelContent.dll
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\bin\x86\Debug\LevelContent.pdb
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\obj\x86\Debug\Space_Invaders_test.exe
+D:\Работа\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\Space_Invaders_test\obj\x86\Debug\Space_Invaders_test.pdb

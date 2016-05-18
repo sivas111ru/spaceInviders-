@@ -1,0 +1,456 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/d:Effects/f:Particle.cs" caret="2572" fromTop="28" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/f:Program.cs" caret="316" fromTop="13" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/d:Effects/f:ParticleController.cs" caret="0" fromTop="0" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/d:Game Objects/f:BossBomb.cs" caret="559" fromTop="20" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/d:Menu/f:MenuItem.cs" caret="517" fromTop="23" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/d:Game Objects/f:Rocket.cs" caret="609" fromTop="16" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/d:Game Objects/f:Spaceship.cs" caret="1167" fromTop="36" />
+      <File id="240C59A0-6B52-4DB6-A493-89AD99C84DB8/f:Level.cs" caret="370" fromTop="12" />
+      <File id="240C59A0-6B52-4DB6-A493-89AD99C84DB8/f:LevelConfig.cs" caret="130" fromTop="7" />
+      <File id="02B7E185-571A-4E30-8721-7276D2CDFA13/d:Levels/f:Level3.xml" caret="111" fromTop="3" />
+      <File id="02B7E185-571A-4E30-8721-7276D2CDFA13/d:Levels/f:Level4.xml" caret="211" fromTop="6" />
+      <File id="02B7E185-571A-4E30-8721-7276D2CDFA13/d:Levels/f:Level2.xml" caret="211" fromTop="6" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/d:Menu/f:Menu.cs" caret="2980" fromTop="39" />
+      <File id="02B7E185-571A-4E30-8721-7276D2CDFA13/d:Levels/f:Level1.xml" caret="112" fromTop="3" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/d:Game Objects/f:Boss.cs" caret="0" fromTop="0" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/d:Game Objects/f:BasicObject.cs" caret="0" fromTop="0" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/d:Game Objects/f:Alien.cs" caret="0" fromTop="0" />
+      <File id="02B7E185-571A-4E30-8721-7276D2CDFA13/d:Levels/f:LevelsConfiguration.xml" caret="390" fromTop="9" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/f:Game1.cs" caret="1222" fromTop="31" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/f:Game1.cs" caret="668" fromTop="21" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/f:Game1.cs" caret="3794" fromTop="27" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/f:Game1.cs" caret="3327" fromTop="14" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/f:Game1.cs" caret="1083" fromTop="13" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/f:Game1.cs" caret="13570" fromTop="29" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/f:Game1.cs" caret="8922" fromTop="14" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/f:Game1.cs" caret="9289" fromTop="25" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/f:Game1.cs" caret="2854" fromTop="40" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/f:Game1.cs" caret="17832" fromTop="22" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/d:Menu/f:Menu.cs" caret="2552" fromTop="39" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/f:Game1.cs" caret="2194" fromTop="15" />
+      <File id="02B7E185-571A-4E30-8721-7276D2CDFA13/d:Levels/f:Level4.xml" caret="282" fromTop="8" />
+      <File id="02B7E185-571A-4E30-8721-7276D2CDFA13/d:Levels/f:Level3.xml" caret="281" fromTop="8" />
+      <File id="02B7E185-571A-4E30-8721-7276D2CDFA13/d:Levels/f:Level1.xml" caret="283" fromTop="8" />
+      <File id="02B7E185-571A-4E30-8721-7276D2CDFA13/d:Levels/f:Level3.xml" caret="111" fromTop="3" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/d:Menu/f:Menu.cs" caret="2276" fromTop="30" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/f:Game1.cs" caret="9739" fromTop="28" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/f:Game1.cs" caret="8419" fromTop="23" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/d:Menu/f:Menu.cs" caret="632" fromTop="20" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/d:Menu/f:Menu.cs" caret="1977" fromTop="23" />
+      <File id="02B7E185-571A-4E30-8721-7276D2CDFA13/d:Levels/f:Level4.xml" caret="211" fromTop="6" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/f:Game1.cs" caret="5176" fromTop="32" />
+      <File id="02B7E185-571A-4E30-8721-7276D2CDFA13/d:Levels/f:Level2.xml" caret="211" fromTop="6" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/d:Menu/f:Menu.cs" caret="2980" fromTop="39" />
+      <File id="02B7E185-571A-4E30-8721-7276D2CDFA13/d:Levels/f:LevelsConfiguration.xml" caret="166" fromTop="4" />
+      <File id="02B7E185-571A-4E30-8721-7276D2CDFA13/d:Levels/f:Level1.xml" caret="112" fromTop="3" />
+      <File id="02B7E185-571A-4E30-8721-7276D2CDFA13/d:Levels/f:LevelsConfiguration.xml" caret="390" fromTop="9" />
+      <File id="0F1BBBF5-0DCB-4133-9E60-8D6EC47AA1F0/f:Game1.cs" caret="2590" fromTop="25" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="11" />
+      <Item value="Vector2`0" priority="0" />
+      <Item value="BasicObject`0" priority="4" />
+      <Item value="base" priority="2" />
+      <Item value="static" priority="3" />
+      <Item value="Rocket`0" priority="8" />
+      <Item value="Spaceship`0" priority="4" />
+      <Item value="Alien`0" priority="33" />
+      <Item value="spaceship" priority="25" />
+      <Item value="new" priority="32" />
+      <Item value="Vector2" priority="6" />
+      <Item value="Game1`0" priority="52" />
+      <Item value="for" priority="16" />
+      <Item value="Int16`0" priority="1" />
+      <Item value="int" priority="44" />
+      <Item value="Rectangle" priority="0" />
+      <Item value="Width" priority="6" />
+      <Item value="sprite" priority="1" />
+      <Item value="Height" priority="5" />
+      <Item value="aliensWidth" priority="8" />
+      <Item value="aliensHeight" priority="3" />
+      <Item value="i" priority="34" />
+      <Item value="aliens" priority="30" />
+      <Item value="Alien" priority="1" />
+      <Item value="alien" priority="5" />
+      <Item value="alienSprite" priority="7" />
+      <Item value="spriteBatch" priority="11" />
+      <Item value="Color`0" priority="5" />
+      <Item value="rocket" priority="34" />
+      <Item value="public" priority="31" />
+      <Item value="r" priority="1" />
+      <Item value="void" priority="17" />
+      <Item value="IsAlive" priority="7" />
+      <Item value="false" priority="41" />
+      <Item value="Game1" priority="1" />
+      <Item value="sprRec" priority="4" />
+      <Item value="Rectangle`0" priority="0" />
+      <Item value="return" priority="8" />
+      <Item value="this" priority="10" />
+      <Item value="SetDataOptions`0" priority="0" />
+      <Item value="if" priority="76" />
+      <Item value="objRect" priority="3" />
+      <Item value="f" priority="4" />
+      <Item value="al" priority="37" />
+      <Item value="gameTime" priority="16" />
+      <Item value="s" priority="0" />
+      <Item value="totalTimeElapsed" priority="1" />
+      <Item value="break" priority="3" />
+      <Item value="while" priority="4" />
+      <Item value="time" priority="7" />
+      <Item value="GameTime" priority="2" />
+      <Item value="background" priority="2" />
+      <Item value="timeres" priority="1" />
+      <Item value="GameTime`0" priority="3" />
+      <Item value="framesPerSec" priority="0" />
+      <Item value="do" priority="0" />
+      <Item value="numberOfFrame" priority="0" />
+      <Item value="Sprite" priority="3" />
+      <Item value="DrawableGameComponent`0" priority="0" />
+      <Item value="foreach" priority="30" />
+      <Item value="in" priority="1" />
+      <Item value="true" priority="22" />
+      <Item value="animate" priority="0" />
+      <Item value="animcount" priority="1" />
+      <Item value="currentFrame" priority="2" />
+      <Item value="sheetSize" priority="1" />
+      <Item value="count" priority="5" />
+      <Item value="particleEffects" priority="2" />
+      <Item value="pressedTime" priority="11" />
+      <Item value="timer" priority="0" />
+      <Item value="game" priority="1" />
+      <Item value="bool" priority="8" />
+      <Item value="vector" priority="3" />
+      <Item value="null" priority="3" />
+      <Item value="Intersect`0" priority="0" />
+      <Item value="keyboardState" priority="1" />
+      <Item value="protected" priority="0" />
+      <Item value="EnemyRocket`0" priority="0" />
+      <Item value="enemyRocket" priority="2" />
+      <Item value="EnemySpaceship`0" priority="0" />
+      <Item value="enemySpacesjip" priority="1" />
+      <Item value="EnemySpaceship" priority="0" />
+      <Item value="Texture2D`0" priority="5" />
+      <Item value="Content" priority="6" />
+      <Item value="enemySpaceship" priority="8" />
+      <Item value="ss" priority="3" />
+      <Item value="Position" priority="11" />
+      <Item value="float" priority="3" />
+      <Item value="c" priority="1" />
+      <Item value="else" priority="10" />
+      <Item value="Random`0" priority="7" />
+      <Item value="rand" priority="6" />
+      <Item value="Random" priority="3" />
+      <Item value="Enemy`0" priority="0" />
+      <Item value="en" priority="3" />
+      <Item value="Enemy" priority="0" />
+      <Item value="texture" priority="5" />
+      <Item value="dot" priority="0" />
+      <Item value="textue" priority="4" />
+      <Item value="EnemyBomb`0" priority="0" />
+      <Item value="enemyBomb" priority="6" />
+      <Item value="gameOn" priority="3" />
+      <Item value="Boss`0" priority="12" />
+      <Item value="boss" priority="31" />
+      <Item value="InitLoad`0" priority="0" />
+      <Item value="InitObj`0" priority="1" />
+      <Item value="alienSpeed" priority="10" />
+      <Item value="aliencount" priority="4" />
+      <Item value="bosspeed" priority="6" />
+      <Item value="BossBomb`0" priority="3" />
+      <Item value="bombSpeed" priority="0" />
+      <Item value="string" priority="1" />
+      <Item value="prop" priority="1" />
+      <Item value="event" priority="0" />
+      <Item value="EventHandler`0" priority="0" />
+      <Item value="MenuItem`0" priority="2" />
+      <Item value="String`0" priority="0" />
+      <Item value="name" priority="0" />
+      <Item value="Active" priority="0" />
+      <Item value="Click" priority="1" />
+      <Item value="List" priority="0" />
+      <Item value="ctor" priority="0" />
+      <Item value="Items" priority="6" />
+      <Item value="List&lt;MenuItem&gt;" priority="0" />
+      <Item value="font" priority="1" />
+      <Item value="SpriteFont`0" priority="0" />
+      <Item value="KeyboardState`0" priority="0" />
+      <Item value="Keyboard`0" priority="0" />
+      <Item value="oldState" priority="1" />
+      <Item value="state" priority="2" />
+      <Item value="Keys`0" priority="3" />
+      <Item value="currentItem" priority="8" />
+      <Item value="delta" priority="2" />
+      <Item value="DecoderFallbackException`0" priority="1" />
+      <Item value="ok" priority="2" />
+      <Item value="SpriteBatch`0" priority="0" />
+      <Item value="item" priority="2" />
+      <Item value="color" priority="1" />
+      <Item value="Menu" priority="6" />
+      <Item value="using" priority="2" />
+      <Item value="Space_Invaders_test.Menu" priority="1" />
+      <Item value="menu" priority="5" />
+      <Item value="MenuItem" priority="0" />
+      <Item value="resumeGame" priority="1" />
+      <Item value="newGame" priority="1" />
+      <Item value="exitGame" priority="0" />
+      <Item value="enum" priority="0" />
+      <Item value="Gamestate`0" priority="2" />
+      <Item value="gameState" priority="5" />
+      <Item value="Game" priority="4" />
+      <Item value="bosses" priority="6" />
+      <Item value="bossSprite" priority="2" />
+      <Item value="bombSprite" priority="1" />
+      <Item value="Boss" priority="3" />
+      <Item value="bombs" priority="4" />
+      <Item value="BossBomb" priority="3" />
+      <Item value="b" priority="3" />
+      <Item value="bossBombs" priority="8" />
+      <Item value="bossBomb" priority="1" />
+      <Item value="continue" priority="1" />
+      <Item value="bombcount" priority="14" />
+      <Item value="bombscount" priority="0" />
+      <Item value="Count`1" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="boss3" priority="10" />
+      <Item value="RandomNotRepeat`0" priority="0" />
+      <Item value="RandomTick`0" priority="0" />
+      <Item value="framestart" priority="2" />
+      <Item value="bombtimer" priority="3" />
+      <Item value="bombfreq" priority="8" />
+      <Item value="alienTotal" priority="1" />
+      <Item value="tt" priority="0" />
+      <Item value="alienAnim" priority="1" />
+      <Item value="IsAnimated" priority="5" />
+      <Item value="alienAnimCount" priority="0" />
+      <Item value="ttt" priority="3" />
+      <Item value="Point`0" priority="0" />
+      <Item value="LevelContent" priority="0" />
+      <Item value="Level`0" priority="2" />
+      <Item value="level1" priority="0" />
+      <Item value="LevelConfig`0" priority="1" />
+      <Item value="configuration" priority="6" />
+      <Item value="maxlevel" priority="1" />
+      <Item value="maxlives" priority="0" />
+      <Item value="gameScreenHeight" priority="0" />
+      <Item value="gameScreenWidth" priority="1" />
+      <Item value="timer3" priority="1" />
+      <Item value="currentlevel" priority="0" />
+      <Item value="gameCompleted" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Space_Invaders_test.Spaceship">
+      <Item value="Position" priority="2" />
+      <Item value="Width" priority="1" />
+      <Item value="Draw`0" priority="0" />
+      <Item value="Update`0" priority="0" />
+      <Item value="Move`0" priority="0" />
+      <Item value="IsAlive" priority="5" />
+      <Item value="IsAnimated" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Space_Invaders_test.Game1">
+      <Item value="gameScreenWidth" priority="9" />
+      <Item value="gameScreenHeight" priority="9" />
+      <Item value="getpressedspace" priority="0" />
+      <Item value="animate" priority="9" />
+      <Item value="smoke" priority="0" />
+      <Item value="gameOn" priority="0" />
+      <Item value="aliencount" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.Texture2D">
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Space_Invaders_test.Alien">
+      <Item value="Position" priority="17" />
+      <Item value="Sprite" priority="2" />
+      <Item value="Border" priority="1" />
+      <Item value="IsAlive" priority="10" />
+      <Item value="ChangeFrame`0" priority="0" />
+      <Item value="Rec`0" priority="0" />
+      <Item value="Draw`0" priority="0" />
+      <Item value="Update`0" priority="3" />
+      <Item value="IsAnimated" priority="4" />
+      <Item value="Width" priority="3" />
+      <Item value="Animate`0" priority="0" />
+      <Item value="tttr`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.SpriteBatch">
+      <Item value="Draw`0" priority="0" />
+      <Item value="DrawString`0" priority="1" />
+      <Item value="Begin`0" priority="0" />
+      <Item value="End`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Color">
+      <Item value="White" priority="2" />
+      <Item value="Gray" priority="0" />
+      <Item value="Brown" priority="0" />
+      <Item value="DarkRed" priority="0" />
+      <Item value="OrangeRed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Space_Invaders_test.Rocket">
+      <Item value="Width" priority="0" />
+      <Item value="Position" priority="1" />
+      <Item value="Bounds" priority="0" />
+      <Item value="Border" priority="0" />
+      <Item value="UpdateBall`0" priority="1" />
+      <Item value="IsAlive" priority="7" />
+      <Item value="rocket" priority="0" />
+      <Item value="aliens" priority="0" />
+      <Item value="en" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Space_Invaders_test.Alien">
+      <Item value="AlienAnimInit`0" priority="0" />
+      <Item value="ChangeFrame`0" priority="0" />
+      <Item value="Rec`0" priority="0" />
+      <Item value="getAliensWidth`0" priority="4" />
+      <Item value="getAliensHeight`0" priority="3" />
+      <Item value="alienAnim" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Rectangle">
+      <Item value="Intersects`0" priority="2" />
+      <Item value="Y" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GameTime">
+      <Item value="ElapsedGameTime" priority="9" />
+      <Item value="TotalGameTime" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="Milliseconds" priority="12" />
+      <Item value="Seconds" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Vector2">
+      <Item value="X" priority="16" />
+      <Item value="Y" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Point">
+      <Item value="Y" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Space_Invaders_test.Game1">
+      <Item value="Exit`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Space_Invaders_test.EnemyRocket">
+      <Item value="IsAlive" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Content.ContentManager">
+      <Item value="Load`1" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Space_Invaders_test.EnemySpaceship">
+      <Item value="Draw`0" priority="0" />
+      <Item value="Position" priority="0" />
+      <Item value="Height" priority="0" />
+      <Item value="Movement`0" priority="0" />
+      <Item value="Width" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Space_Invaders_test.Enemy">
+      <Item value="Border" priority="0" />
+      <Item value="IsAlive" priority="4" />
+      <Item value="IsAnimated" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Space_Invaders_test.ParticleController">
+      <Item value="texture" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Space_Invaders_test.EnemyBomb">
+      <Item value="IsAlive" priority="3" />
+      <Item value="IsAnimated" priority="0" />
+      <Item value="boss" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Space_Invaders_test.Boss">
+      <Item value="Draw`0" priority="1" />
+      <Item value="Position" priority="2" />
+      <Item value="Height" priority="0" />
+      <Item value="Border" priority="0" />
+      <Item value="IsAlive" priority="6" />
+      <Item value="IsAnimated" priority="3" />
+      <Item value="Update`0" priority="1" />
+      <Item value="Animate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Space_Invaders_test.Menu.MenuItem">
+      <Item value="Name" priority="1" />
+      <Item value="OnClick`0" priority="0" />
+      <Item value="Active" priority="3" />
+      <Item value="Click" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Input.Keyboard">
+      <Item value="GetState`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Input.KeyboardState">
+      <Item value="IsKeyDown`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Input.Keys">
+      <Item value="Enter" priority="0" />
+      <Item value="Up" priority="1" />
+      <Item value="Down" priority="1" />
+      <Item value="Escape" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count`1" priority="1" />
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Space_Invaders_test.Menu.Menu">
+      <Item value="Items" priority="1" />
+      <Item value="LoadContent`0" priority="0" />
+      <Item value="Update`0" priority="0" />
+      <Item value="Draw`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Space_Invaders_test.Menu.Game1">
+      <Item value="Exit`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Space_Invaders_test.Menu.Gamestate">
+      <Item value="Menu" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Space_Invaders_test.Boss">
+      <Item value="getBossWidth`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Space_Invaders_test.BossBomb">
+      <Item value="Position" priority="1" />
+      <Item value="IsAlive" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Space_Invaders_test.RandomTick">
+      <Item value="Next`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Space_Invaders_test.Menu.Game1">
+      <Item value="animate" priority="2" />
+      <Item value="aliencount" priority="10" />
+      <Item value="lives" priority="0" />
+      <Item value="gameCompleted" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LevelContent.LevelConfig">
+      <Item value="maxlevel" priority="0" />
+      <Item value="maxlives" priority="0" />
+      <Item value="PreferredBackBufferWidth" priority="1" />
+      <Item value="gameScreenHeight" priority="0" />
+      <Item value="gameScreenWidth" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
